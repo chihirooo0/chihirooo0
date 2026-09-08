@@ -1,7 +1,7 @@
 ##  Hi, I’m Polya!
 
  I'm a **Full-Stack Developer & UI/UX Designer** who loves turning ideas into functional products and beautiful interfaces.
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2I4cDBubXMycmVkdmxocHpnc21nMnU2N283M3A1Y3lzN3hzbDNpcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dqOhPm0mqrjpU4dJ44/giphy.gif" width="500">
 ---
 
 ### 🧰 Tech Stack
